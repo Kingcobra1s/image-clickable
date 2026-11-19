@@ -1,0 +1,6 @@
+{
+  "name": "SnapRedirect",
+  "description": "Create shareable image-to-URL redirect links with Adsterra or Monetag smart links and timed redirects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
